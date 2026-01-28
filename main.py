@@ -5,7 +5,7 @@ pygame.init()
 WIDTH, HEIGHT = 512, 512
 SQ_SIZE = WIDTH // 8
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Python Unicode Chess")
+pygame.display.set_caption("Chess")
 font = pygame.font.SysFont("Segoe UI Symbol", 50) # Supports Unicode Chess Pieces
 
 # Piece Representations
