@@ -39,4 +39,4 @@ A clean, distraction-free Chess game designed for two players on a single device
 3. Double-click to start playing! 
    > *Note: If a security warning appears, click "More Info" -> "Run Anyway".*
 
-© 2026 Chess Game Project by Safwan Sabit .
+© 2026 Chess Game Project by **Safwan Sabit** .
