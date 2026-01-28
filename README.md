@@ -1,7 +1,7 @@
 # ♟️ Chess Game: Local Multiplayer
 
-[![Platform: Windows](https://img.shields.io/badge/Platform-Windows-blue?logo=windows)](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)
-[![Platform: Android](https://img.shields.io/badge/Platform-Android-green?logo=android)](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)
+[![Platform: Windows](https://img.shields.io/badge/Platform-Windows-blue?logo=windows)](https://github.com/mdsafwansabit/Chess-Game/releases)
+[![Platform: Android](https://img.shields.io/badge/Platform-Android-green?logo=android)](https://github.com/mdsafwansabit/Chess-Game/releases)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
 
 A clean, distraction-free Chess game designed for two players on a single device. **No accounts, no internet required—just classic chess.**
